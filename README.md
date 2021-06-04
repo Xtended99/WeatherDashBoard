@@ -109,5 +109,5 @@ Enjoy!!!
   ![Compact View](./assets/images/compressedview.png)   
  
 
-### **Hands of view**   
+### **Hands off view**   
   ![Live Demonstration View](./assets/images/demonstrationview.png)   
