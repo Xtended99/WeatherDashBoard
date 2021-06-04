@@ -102,7 +102,7 @@ Enjoy!!!
   
   
 ### **Showing Storage view**   
-  ![Storage View](./assets/images/storageview.png)   
+  ![Storage View](./assets/images/Storageview.png)   
   
   
 ### **Compact View**   
