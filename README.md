@@ -54,7 +54,7 @@ Premise:
  
 Features included:
 
- *   The only input field on the page gets to be the star and recives automatic  
+ *   The only input field on the page gets to be the star and recives automatic focus. 
  *   The input will respond to the enter key and can act as a botton simply by pressing the enter key.  
 
  *   Main features:  
