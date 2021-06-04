@@ -91,7 +91,7 @@ Enjoy!!!
   
   
   
-### **MSearching for a single city**  
+### **Searching for a single city**  
   ![Searching view](./assets/images/singlesiteseartch.png)   
   
   
@@ -102,7 +102,7 @@ Enjoy!!!
   
   
 ### **Showing Storage view**   
-  ![Storage View](./assets/images/storageview.pn)   
+  ![Storage View](./assets/images/storageview.png)   
   
   
 ### **Compact View**   
